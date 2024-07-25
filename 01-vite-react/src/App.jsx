@@ -15,6 +15,7 @@ function App() {
       setCounter(counter - 1);
     }
   };
+
   return (
     <>
       <h1>Coffee with react</h1>
